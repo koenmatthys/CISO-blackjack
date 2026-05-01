@@ -2,7 +2,8 @@
 This is a codeless-repo that describes the setup of CISO Blackjack, a roleplay game for CISOs
 Check the wiki for all the original details on the game:
 https://github.com/koenmatthys/CISO-blackjack/wiki#ciso-blackjack-wiki
-The Energy version has the following changes: 
+
+The Energy version has the following changes: <br>
 Role cards (besides CISO): Beredskapsleder (Emergency preparedness), OT Cyber and Maintenance Engineer, SAS vendor, NVE/Havtil
 Existing rolecards such as CFO, Board of Directors, CEO/Director, etc are still usable. 
 Organisational cards will become sector-specific, and consist of: Minor local utility, Major regional utility, National player (Statkraft, Statnett), Oil and Gas company, Key vendor to Energy sector (SAS vendor, system integrator)
